@@ -1,7 +1,7 @@
 # DevSalaryInsights
 
 
-A Streamlit app that predicts software developer salaries based on education, experience, and location. Explore salary data from the Stack Overflow Developer Survey with interactive visualizations.
+A Streamlit app that predicts software developer salaries based on education, experience, and location. Explore salary data from the Stack Overflow Developer Survey 2023 with interactive visualizations.
 
 ## Project Overview
 
@@ -47,6 +47,21 @@ This project allows users to predict software developer salaries using machine l
 
 - **Salary Prediction**: Navigate to the "Predict" page and enter details such as education level, years of experience, and country. The app will predict your estimated salary.
 - **Salary Exploration**: Navigate to the "Explore" page to view charts and insights based on global software developer salary data.
+
+Predict page:
+![image](https://github.com/user-attachments/assets/d74e42d3-439b-4dfc-b6b7-4abe96d28c65)
+
+
+Explore page to analyze trends:
+
+![image](https://github.com/user-attachments/assets/a1a0f7bb-465f-4354-8bd7-bf609a3d76d4)
+
+
+
+![image](https://github.com/user-attachments/assets/4a40123a-5289-4470-875d-226aa92665bb)
+
+
+
 
 ## Data Source
 
